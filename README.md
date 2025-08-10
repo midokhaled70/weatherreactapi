@@ -107,5 +107,5 @@ const url = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units
 
 ## 🙌 Author
 
-**Mido Khale**  
+**Mido Khaled**  
 Frontend Developer | React Enthusiast  
