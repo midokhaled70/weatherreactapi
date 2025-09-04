@@ -107,5 +107,5 @@ const url = `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&units
 
 ## 🙌 Author
 
-**ِAhmed Kha**  
+**ِAhmed Khal**  
 Frontend Developer | React Enthusiast  
